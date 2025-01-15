@@ -1,0 +1,1 @@
+This folder contains any extra required resource for the project

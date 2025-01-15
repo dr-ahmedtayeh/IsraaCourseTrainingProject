@@ -1,0 +1,1 @@
+This folder contains all resources for the Web-React-based application
